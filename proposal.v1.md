@@ -1,6 +1,6 @@
 1. What tech stack will you use for your final project? 
 
-Node and React, using Websockets for live updating and using Reactstrap for stylizing.
+Node and React, using Websockets for live updating and using Reactstrap for stylizing.  Using Redux for session data management.
 
 2. Is the front-end UI or the back-end going to be the focus of your project? Or are
 you going to make an evenly focused full-stack application?
